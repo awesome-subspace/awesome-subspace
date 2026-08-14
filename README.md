@@ -37,6 +37,7 @@
 
 | 分类 | 目录 | 描述 |
 |------|------|------|
+| 🦕 奶龙专区 | [`prompts/nailong/`](./prompts/nailong/) | 奶龙 Meme 角色抽象视频，含参考图指引 |
 | 赛博抽象 | [`prompts/cyber/`](./prompts/cyber/) | 赛博朋克风格的抽象场景 |
 | 自然异变 | [`prompts/nature/`](./prompts/nature/) | 自然元素的超现实变形 |
 | 日常错位 | [`prompts/daily/`](./prompts/daily/) | 普通生活场景的荒诞扭曲 |
@@ -44,9 +45,44 @@
 | 古典重构 | [`prompts/classical/`](./prompts/classical/) | 古典意象的当代抽象演绎 |
 | 混沌综合 | [`prompts/chaos/`](./prompts/chaos/) | 多元素混搭的极致混沌 |
 
+### 奶龙专区子分类
+
+> 奶龙系列需要上传参考图，详见 [`prompts/nailong/README.md`](./prompts/nailong/README.md)
+
+| 子分类 | 目录 | 核心笑点 |
+|--------|------|----------|
+| 美食冲突 | [`nailong/cooking-fight/`](./prompts/nailong/cooking-fight/) | 抢饭引发的笨拙格斗 |
+| 存在主义 | [`nailong/existential/`](./prompts/nailong/existential/) | 前90%严肃，最后10%犯病 |
+| 时尚走秀 | [`nailong/fashion/`](./prompts/nailong/fashion/) | 高奢品牌视觉 × 卡通物理失误 |
+| 宇宙降临 | [`nailong/cosmic/`](./prompts/nailong/cosmic/) | 史诗末日叙事被一份外卖瓦解 |
+| 纪录片 | [`nailong/documentary/`](./prompts/nailong/documentary/) | BBC写实风 × 次元反差 |
+| 一句话抽象 | [`nailong/crossover/`](./prompts/nailong/crossover/) | 联合国、法庭、月球……一句话搞定 |
+
 ---
 
 ## 精选提示词
+
+### 奶龙做饭大战（奶龙专区）
+```
+一只黄色圆滚滚的3D卡通小恐龙正在认真炒饭。
+突然，一只拟人化肥猫冲进厨房端走炒饭。
+双方笨拙激烈搏斗，锅、饭勺、塑料凳飞过画面。
+奶龙被夸张一拳KO飞出，撞穿纸板墙。
+镜头推进废墟，奶龙从瓦砾中伸出手，比出大拇指。
+```
+分类：`nailong/cooking-fight` | 标签：`奶龙` `打架` `反转` | 需参考图：是
+
+---
+
+### 奶龙：最后的希望（奶龙专区）
+```
+世界末日后的上海，一个巨型奶龙从云层缓缓降落，全球媒体直播，军队严阵以待。
+奶龙落在城市中央，所有人屏住呼吸。
+它低头，从肚子后面掏出一份外卖，坐在废墟上开始吃饭。
+```
+分类：`nailong/cosmic` | 标签：`末日` `史诗` `外卖` | 需参考图：是
+
+---
 
 ### 赛博城市溶解
 ```
@@ -103,11 +139,15 @@ underwater light filtering through the ink like stained glass.
 
 以下工具可用于将提示词生成抽象视频：
 
-- **Sora** — OpenAI 出品，高质量视频生成
-- **Runway Gen-3** — 专业级视频生成平台
-- **Kling（可灵）** — 快手旗下 AI 视频生成
-- **即梦** — 字节旗下 AI 视频工具
-- **Vidu** — 国产高质量视频生成
+| 工具 | 特点 | 奶龙参考图支持 |
+|------|------|----------------|
+| **Seedance 2.0**（即梦） | 字节出品，中文友好，运动流畅 | ✅ 图生视频 |
+| **可灵（Kling）** | 快手旗下，主体一致性强 | ✅ 参考图模式 |
+| **Vidu** | 国产高质量，角色稳定性好 | ✅ 角色参考 |
+| **Sora** | OpenAI 出品，创意发挥空间大 | ⚠️ 有限支持 |
+| **Runway Gen-3** | 专业级，电影质感强 | ⚠️ 有限支持 |
+
+> **奶龙等 Meme 角色推荐优先使用 Seedance 2.0 / 可灵 / Vidu**，这类平台对参考图主体一致性支持更好。
 
 ---
 
