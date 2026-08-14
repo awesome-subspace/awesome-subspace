@@ -9,7 +9,7 @@
 [![Forks](https://img.shields.io/github/forks/awesome-subspace/awesome-subspace?style=flat-square&logo=github&label=Forks)](https://github.com/awesome-subspace/awesome-subspace/forks)
 [![Contributors](https://img.shields.io/github/contributors/awesome-subspace/awesome-subspace?style=flat-square&label=Contributors)](https://github.com/awesome-subspace/awesome-subspace/graphs/contributors)
 [![Last Commit](https://img.shields.io/github/last-commit/awesome-subspace/awesome-subspace?style=flat-square&label=Last%20commit)](https://github.com/awesome-subspace/awesome-subspace/commits/main)
-[![Prompts](https://img.shields.io/badge/curated_prompts-60%2B-2ea44f?style=flat-square)](./prompts/)
+[![Prompts](https://img.shields.io/badge/curated_prompts-70%2B-2ea44f?style=flat-square)](./prompts/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-2ea44f?style=flat-square)](CONTRIBUTING.md)
 
 [浏览提示词](./prompts/) · [Browse prompts](./prompts/) · [贡献指南](CONTRIBUTING.md) · [Prompt template](./prompts/TEMPLATE.md)
@@ -54,7 +54,7 @@
 | 分类 / Collection | 目录 / Path | 内容 / Focus |
 |---|---|---|
 | 奶龙专区 / Nailong | [`prompts/nailong/`](./prompts/nailong/) | Meme 角色、严肃铺垫与突然犯病；需要参考图 / Character memes with deadpan setups; reference image required |
-| 垃圾抽象 / Trashcore | [`prompts/trashcore/`](./prompts/trashcore/) | 60 条低清废片、五毛特效和无意义反转 / 60 lo-fi prompts with cheap effects and pointless twists |
+| 垃圾抽象 / Trashcore | [`prompts/trashcore/`](./prompts/trashcore/) | 70 条低清废片、五毛特效和无意义反转 / 70 lo-fi prompts with cheap effects and pointless twists |
 | 赛博抽象 / Cyber | [`prompts/cyber/`](./prompts/cyber/) | 数字空间、霓虹城市与故障美学 / Digital spaces, neon cities, and glitches |
 | 自然异变 / Nature | [`prompts/nature/`](./prompts/nature/) | 生物、植物与自然规律的超现实变形 / Surreal mutations of living systems and natural laws |
 | 日常错位 / Daily | [`prompts/daily/`](./prompts/daily/) | 熟悉场景中的逻辑崩塌 / Familiar places behaving impossibly |
@@ -87,6 +87,7 @@ The Nailong series works best with a character reference image. See the [Nailong
 | 职场系统失控 / Office Malfunctions | 10 | [`office-malfunctions.md`](./prompts/trashcore/office-malfunctions.md) |
 | 食物邪典现场 / Food Abominations | 10 | [`food-abominations.md`](./prompts/trashcore/food-abominations.md) |
 | 公共空间迷惑行为 / Public-space Nonsense | 10 | [`public-space-nonsense.md`](./prompts/trashcore/public-space-nonsense.md) |
+| 阴间便民服务大厅 / Underworld Service Hall | 10 | [`underworld-service-hall.md`](./prompts/trashcore/underworld-service-hall.md) |
 
 ## 精选提示词 / Featured Prompts
 
@@ -143,7 +144,7 @@ Prompts are model-agnostic. Results vary by model version, duration, reference i
 awesome-subspace/
 ├── prompts/
 │   ├── nailong/       # Character meme series / 角色 Meme 系列
-│   ├── trashcore/     # 60 lo-fi prompts / 60 条垃圾抽象提示词
+│   ├── trashcore/     # 70 lo-fi prompts / 70 条垃圾抽象提示词
 │   ├── cyber/         # Cyber surrealism / 赛博抽象
 │   ├── nature/        # Mutated nature / 自然异变
 │   ├── daily/         # Everyday absurdity / 日常错位
