@@ -44,6 +44,7 @@
 | 宇宙漫游 | [`prompts/cosmos/`](./prompts/cosmos/) | 宇宙、虚空与维度穿越 |
 | 古典重构 | [`prompts/classical/`](./prompts/classical/) | 古典意象的当代抽象演绎 |
 | 混沌综合 | [`prompts/chaos/`](./prompts/chaos/) | 多元素混搭的极致混沌 |
+| 垃圾抽象 | [`prompts/trashcore/`](./prompts/trashcore/) | 低清废片、五毛特效与一本正经的无意义反转（60 条） |
 
 ### 奶龙专区子分类
 

@@ -6,7 +6,7 @@
 
 ## 标题（简洁描述主题）
 
-**分类：** `cyber` / `nature` / `daily` / `cosmos` / `classical` / `chaos`
+**分类：** `cyber` / `nature` / `daily` / `cosmos` / `classical` / `chaos` / `trashcore`
 
 **标签：** `意象1` `意象2` `意象3`
 

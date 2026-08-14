@@ -23,6 +23,7 @@ cd awesome-subspace
 | `cosmos/` | 宇宙、星际、维度、虚空 |
 | `classical/` | 古风、古典意象的现代抽象演绎 |
 | `chaos/` | 跨类别混搭、极限混沌 |
+| `trashcore/` | 低清废片、廉价特效、尴尬表演与无意义反转 |
 
 不确定分类？放进 `chaos/` 就对了。
 
